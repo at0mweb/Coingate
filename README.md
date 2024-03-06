@@ -1,8 +1,8 @@
 
-# Coingate Gateway extension for Paymenter
+# Coingate Gateway extension for [Paymenter](https://paymenter.org)
 
-Paymenter extension to use Coingate as a Payment Gateway.
-https://coingate.com/
+Paymenter extension to use [Coingate](https://coingate.com/) Crypto Payment Gateway.
+
 
 
 ## Installation
